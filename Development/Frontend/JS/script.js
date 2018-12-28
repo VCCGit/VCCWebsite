@@ -1,1 +1,1 @@
-function onBoot() {alert("Hello World, and Happy New Year!");}
+function onBoot() {alert("Hello World, and Merry Christmas!");}
